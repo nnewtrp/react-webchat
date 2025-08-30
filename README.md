@@ -38,7 +38,7 @@ No backend server setup required — all data handling and authentication are ma
 
 #### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/nnewtrp/webchat.git
+git clone https://github.com/nnewtrp/react-webchat.git
 cd webchat
 ```
 
